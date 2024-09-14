@@ -61,3 +61,16 @@ _Everything is the mod version, not datapack._
     <li><p><a href="https://modrinth.com/mod/leaves-be-gone">Leaves Be Gone</a></p></li>
   </ul>
 </details>
+
+### Gallery
+
+![Badlands](https://github.com/guefra/Vanilla-Remastered/blob/main/src/images/badlands.png?raw=true)
+![Campsite](https://github.com/guefra/Vanilla-Remastered/blob/main/src/images/campsite.png?raw=true)
+![Cherry grove](https://github.com/guefra/Vanilla-Remastered/blob/main/src/images/cherry-grove.png?raw=true)
+![Desert ruin](https://github.com/guefra/Vanilla-Remastered/blob/main/src/images/desert-ruin.png?raw=true)
+![Desert](https://github.com/guefra/Vanilla-Remastered/blob/main/src/images/desert.png?raw=true)
+![Forest](https://github.com/guefra/Vanilla-Remastered/blob/main/src/images/forest.png?raw=true)
+![Hills](https://github.com/guefra/Vanilla-Remastered/blob/main/src/images/hills.png?raw=true)
+![Landscape](https://github.com/guefra/Vanilla-Remastered/blob/main/src/images/landscape.png?raw=true)
+![River](https://github.com/guefra/Vanilla-Remastered/blob/main/src/images/river.png?raw=true)
+![Underwater city](https://github.com/guefra/Vanilla-Remastered/blob/main/src/images/underwater-city.png?raw=true)
