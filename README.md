@@ -62,6 +62,11 @@ _Everything is the mod version, not datapack._
   </ul>
 </details>
 
+### Credits
+
+Special thanks to each creator of the mods used in this pack, so the following (only the "Owners" or "Organisations" of the mods are listed):
+[NovaWostra](https://modrinth.com/user/NovaWostra), [bebebea_loste](https://modrinth.com/user/bebebea_loste), [Hoponopono](https://modrinth.com/user/Hoponopono), [Apollo](https://modrinth.com/user/Apollo), [Stardust Labs](https://modrinth.com/organization/stardust-labs), [pop4959](https://modrinth.com/user/pop4959), [jellysquid3](https://modrinth.com/user/jellysquid3), [Wesley1808](https://modrinth.com/user/Wesley1808), [modmuss50](https://modrinth.com/user/modmuss50), [Fuzs](https://modrinth.com/user/Fuzs)
+
 ### Gallery
 
 ![Badlands](https://github.com/guefra/Vanilla-Remastered/blob/main/src/images/badlands.png?raw=true)
